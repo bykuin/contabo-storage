@@ -44,9 +44,9 @@ $secretKey = 'your_secret_key';
                 <li>Open the <code>index.php</code> file in a text editor.</li>
                 <li>Locate the following lines of code:
                     <pre>
-$endpoint = 'https://eu2.contabostorage.com'; // Set the endpoint for Contabo Storage
-$region = 'EU'; // Set the region for Contabo Storage
-$bucket = 'local'; // Set the bucket name for Contabo Storage
+$endpoint = 'YOUR_ENDPOINT'; // Set the endpoint for Contabo Storage
+$region = 'YOUR_REGION'; // Set the region for Contabo Storage
+$bucket = 'YOUR_BUCKET_NAME'; // Set the bucket name for Contabo Storage
                     </pre>
                 </li>
                 <li>Adjust the <code>$endpoint</code>, <code>$region</code>, and <code>$bucket</code> variables according to your Contabo Storage configuration.</li>
