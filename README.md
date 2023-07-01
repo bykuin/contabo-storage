@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>Contabo Storage Project Setup</h1>
+    <h1>Contabo Storage Basic Project Setup</h1>
     <ol>
         <!-- Clone the Repository -->
         <li>
